@@ -1,0 +1,10 @@
+{
+  "name": "controle-financeiro-familiar",
+  "version": "0.1.0",
+  "description": "Livro financeiro da família: lançamentos, contas a vencer e conciliação do casal.",
+  "author": {
+    "name": "senal88"
+  },
+  "homepage": "https://controle-financeiro.mfotrust.com",
+  "license": "MIT"
+}
